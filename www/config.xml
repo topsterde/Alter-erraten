@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="topster.altererraten" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Errate das Alter einer Person</name>
+    <name>Alter erraten</name>
     <description>
         Seh dir ein Bild an und errate das Alter dieser Person. Finde heraus, wie gut du das Alter von anderen Menschen einschätzen kannst?
     </description>
